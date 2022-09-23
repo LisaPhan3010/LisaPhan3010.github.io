@@ -1,6 +1,6 @@
 #Open For Science 
 
-I believe the scientific endeavor is best served by transparent and reproducible work. It is my goal to participate in open science and share not only outcomes but process.
+This is my lab notbook in Dr. Unckless lab. I believe the scientific endeavor is best served by transparent and reproducible work. It is my goal to participate in open science and share not only outcomes but process.
 
 My notebook documents thoughts, analyses, knowledge gains, roadblocks, detours, and products. My goal is to facilitate scientific advancement through the open sharing of data and analytical approaches. As with science, this notebook is a work in process, hopefully advancing with every iteration. 
 
