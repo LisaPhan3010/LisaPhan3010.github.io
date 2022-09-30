@@ -1,5 +1,5 @@
 ---
-layout:
+layout: post
 title: Infecting D. innubila Flies with Bacteria
 category:
 tags:
