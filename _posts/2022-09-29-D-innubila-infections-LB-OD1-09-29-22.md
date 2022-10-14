@@ -7,6 +7,22 @@ tags:
 
 # D. innubila Infection with Bacteria
 
+**Table of Infection**
+
+**Vial Number**|**Treatment**|**Time Infected**|**Time on CO2**|**Number of Flies**|**Sex**|**Species**
+:------:|:------------:|:---------:|:----------:|:-------------:|:------:|:-------------:
+1|LB|4:38pm|12min|9|male|D. innubila
+2|OD:1|4:38pm|16min|9|male|D. innubila
+3|LB|4:57pm|15min|9|male|D. innubila
+4|LB|4:57pm|15min|7|male|D. innubila
+5|OD:1|5:16pm|13min|7|male|D. innubila
+6|OD:1|5:16pm|13min|7|male|D. innubila
+7|LB|5:33pm|15min|7|male|D. innubila
+8|OD:1|5:51pm|11min|6|male|D. innubila
+9|LB|5:33pm|15min|7|male|D. innubila
+10|OD:1|5:51pm|11min|6|male|D. innubila
+11|OD:1|6:05pm|7min|8|male|D. innubila
+
 **Infection Preparation**
 - The day before the infection day, separating D. innubila flies by sexes
 - Choose vials of flies with age of 5-7 days and place them on the CO2 pad one by one
