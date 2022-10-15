@@ -56,6 +56,22 @@ tags:
 - Transfer flies to new vials every 3-4 days
 - After 7 days, all vials can be discarded in the fly trash
 
+***Table: Survivality after Infection***
+
+**Vial Number**|**Day 1**|**Day 2**|**Day 3**|**Day 4**|**Day 5**|**Day 6**|**Day 7**
+:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
+1|7|6|6|N/A|N/A|0|0
+2|6|3|2|N/A|N/A|0|0
+3|7|6|6|N/A|N/A|3|3
+4|6|6|6|N/A|N/A|3|2
+5|0|0|0|0|0|0|0
+6|2|1|1|N/A|N/A|0|0
+7|6|5|5|N/A|N/A|1|0
+8|1|0|0|0|0|0|0
+9|7|7|7|N/A|N/A|5|4
+10|0|0|0|0|0|0|0
+11|0|0|0|0|0|0|0
+
 **Additional Info**
 - Clean the probe and needle after every infection by dipping in the ethanol tube
 - The infection needle needs to be dipped into the infection liquid before each infection
