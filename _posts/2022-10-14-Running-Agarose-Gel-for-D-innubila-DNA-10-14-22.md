@@ -122,3 +122,6 @@ tags:
 - Put trash into the second trash bucket with gloves
 
 **Annotating the Gel Image**
+
+*Annotating Gel*
+![](https://raw.githubusercontent.com/NgocHuan01/NgocHuan_Open_Lab_Notebook/master/images/Annotating_Gel_10_14_22.JPG)
