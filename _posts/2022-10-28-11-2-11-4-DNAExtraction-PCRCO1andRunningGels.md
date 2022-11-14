@@ -230,3 +230,4 @@ Use the mini-centrifuge to spin down the homogenized fly tubes
 **Annotating the Gel Image**
 
 *Annotating Gel*
+![](https://raw.githubusercontent.com/NgocHuan01/NgocHuan_Open_Lab_Notebook/master/images/Annotating_Gel_11_04_22.jpg)
