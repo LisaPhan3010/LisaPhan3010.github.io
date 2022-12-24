@@ -111,3 +111,15 @@ tags:
 | Mushroom broth plate with no sugar and yeast fly age 3              | MNSY3        | three   | experimental | 3         | Y     | MNS        | MNSY3-3             | 5/19/2022      | 63          | 70          | 62          | 65.0              |
 | Mushroom broth plate with sugar fly age 3                           | MS3          | three   | experimental | 3         | N     | MS         | MS3-3               | 5/11/2022      | 42          | 40          | 41          | 41.0              |
 | Mushroom broth plate with no sugar fly age 3                        | MNS3         | three   | experimental | 3         | N     | MNS        | MNS3-3              | 5/11/2022      | 37          | 36          | 37          | 36.7              |
+
+*Table: Average Egg Count for Different Ages of D. innubila*
+![](https://raw.githubusercontent.com/NgocHuan01/NgocHuan_Open_Lab_Notebook/master/images/Egg_Count_Per_AgeFly.jpeg)
+
+*Table: Average Egg Count for each Plate Type with Different Ages*
+![](https://raw.githubusercontent.com/NgocHuan01/NgocHuan_Open_Lab_Notebook/master/images/Egg_Count_Plate_Type_BothAge.jpeg)
+
+*Table: Average Egg Count for each Plate Type with Different Yeast Condition*
+![](https://raw.githubusercontent.com/NgocHuan01/NgocHuan_Open_Lab_Notebook/master/images/Egg_Count_Per_Plate_Type_YeastCondition_BothAges.jpeg)
+
+*Table: Average Egg Count for each Plate Type with Different Yeast Condition in Age 3*
+![](https://raw.githubusercontent.com/NgocHuan01/NgocHuan_Open_Lab_Notebook/master/images/Egg_Count_Per_Plate_Type_YeastCondition_Age3.jpeg)
