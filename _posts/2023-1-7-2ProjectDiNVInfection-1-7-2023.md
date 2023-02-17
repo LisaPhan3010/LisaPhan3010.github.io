@@ -223,3 +223,11 @@ tags:
 - Trash + gloves to second bucket
 
 *Annotating*
+
+- CO1 Gel
+
+![](https://raw.githubusercontent.com/NgocHuan01/NgocHuan_Open_Lab_Notebook/master/images/CO1Gel_2.jpg)
+
+- p47 Gel
+
+![](https://raw.githubusercontent.com/NgocHuan01/NgocHuan_Open_Lab_Notebook/master/images/p47Gel_2.jpg)
