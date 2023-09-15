@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am the Undergraduate Member and Research Assistant for Maggie Schedl and Robert Unckless at the University of Kansas. This Open Lab Notebook is for all things Putnam Lab.
+I am currently a PhD aspirant in the Department of Molecular Biosciences, University of Kansas. I used to be an Undergraduate Researcher and Research Assistant for Maggie Schedl and Robert Unckless at the University of Kansas. This Open Lab Notebook is for all things Putnam Lab.
 
 
 
@@ -16,13 +16,13 @@ I am the Undergraduate Member and Research Assistant for Maggie Schedl and Rober
 ### Contact me
 
 [huannguyen@ku.edu](mailto:huannguyen@ku.edu)
-
+[huanbmt1205@gmail.com](mailto:huanbmt1205@gmail.com)
 
 ### Positions
 
-|
-### Education
 
+### Education
+B.S. in Molecular, Cellular, and Developmental Biology, University of Kansas, 2023
 
 
 
