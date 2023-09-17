@@ -19,3 +19,5 @@ tags:
 - Check under microscope
 - Put cells into the incubator
 - Throw away the tube
+
+- 9-14-2023, change media for both plates (3mL for each)

@@ -55,7 +55,7 @@ tags:
 
 **ViaFect Reagent Transfection**
 
-- 9-10-2023, split cells from 5cm dish to a 3.5cm dish with a confluency of 25% (to have 50% the next day)
+- 9-11-2023, split cells from 5cm dish to a 3.5cm dish with a confluency of 25% (to have 50% the next day)
 
 **Reagents**|**Concentration/Amount**|**Volume**
 :------:|:---------:|:----------:
@@ -71,3 +71,13 @@ Opti-MEM (media without FBS)|-|183.02uL (total of 200uL)
 - Change media for the cells
 - Add dropwise of transfection mix into the plate
 - Mix well and leave in incubator for 2 days
+
+- 9-14-2023, split cells from 3.5 cm dish (80%) to 2 of 10 cm dish (20%), 500 uL per dish
+- Also split cells in the reserved plate, take out all cells
+
+- 9-15-2023, add antibiotic selection
+- Stock Puromycin is 10 ug/mL, the needed Puromycin is 2 ug/10mL
+- Thus, 2/2 x 10 = 2 uL, take 2 uL for each dish
+- Drop and swirl
+
+- 9-16-2023, change media and add antibiotic again
