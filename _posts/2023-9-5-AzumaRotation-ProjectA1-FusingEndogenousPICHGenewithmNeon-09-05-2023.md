@@ -81,3 +81,9 @@ Opti-MEM (media without FBS)|-|183.02uL (total of 200uL)
 - Drop and swirl
 
 - 9-16-2023, change media and add antibiotic again
+
+- 9-18-2023, change media and add slective antibiotic
+
+- 9-20-2023, change media and add selective antibitotic (1uL instead)
+
+- 9-22-2023, 1uL
