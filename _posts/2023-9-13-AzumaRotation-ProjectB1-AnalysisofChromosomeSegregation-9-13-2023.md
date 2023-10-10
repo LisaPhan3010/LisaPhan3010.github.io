@@ -93,6 +93,7 @@ tags:
 - 9-25 coverslips, 9-26 split 60% confluent 10:30 am and thymidine 2:30 pm, 9-27 release thymidine at 9:30/ 10am, 9-28 wash 2mL PBS 9:45am, 2nd antibodies 2:30 pm, wash and mounting 5:20 pm, microscope work
 
 - Also repeat experiment the third time because the second did not show much anaphase cells for 3KR treatment
+- 10-3 10am split cell 60%, 2:30pm add thymidine, 10-4 10am release thymidine, 7pm fixation, 10-5 9:30am wash 1X PBS and ice cold methanol
 
 - Some other side works, 9-22, make stock of Topo 3KR, cell split from 10 cm dish with 100%
 - Split 2 of 5cm dishes of Topo 3KR for stock as well

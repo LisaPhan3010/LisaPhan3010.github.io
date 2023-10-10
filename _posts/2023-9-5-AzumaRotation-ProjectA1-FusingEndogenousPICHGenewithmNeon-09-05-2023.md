@@ -109,3 +109,19 @@ Opti-MEM (media without FBS)|-|183.02uL (total of 200uL)
 + Puromycin (stock 10 mg/mL), needed 1 ug/uL. Thus, 1/10,000, 1.5uL
 
 - 10-5-2023, transfer 1/3 to 24-well plate, 2/3 to ependorf 1.5 mL tube
+
+**Genomic DNA Extraction from Pellet of Cell**
+- Add proteinase K (10 uL per 1000 uL of lysis buffer) into lysis buffer, made (250uL x 22) + 100 = 5,600 uL (I messed up here with only 5.6uL of proteinase K)
+- Add lysis buffer on pellet, 250 uL if it is from 24-well plate
+- Incubate at 60C for 1 hour and mix with hand after 30 min, tap every 10 min (until all pellet is dissolved)
+- Incubate at 95C for 10 min to deactivate proteinase K
+- Let it cool at room temperature (can put on ice)
+- Add 250 uL isopropanol (same volume with lysis buffer) and invert several times, see waves and mix until see DNA
+- Centrifuge at high speed for 10 min
+- Discard supernatent
+- Add 500 uL of 70% ethanol
+- Centrifuge on high speed for 2 min
+- Discard supernatent
+- Centrifuge on table top centrifuge, take out the extra ethanool with pipette
+- Let it dry for 30 min
+- Add 200 uL of (RNase and EB buffer), incubate at 37C overnight

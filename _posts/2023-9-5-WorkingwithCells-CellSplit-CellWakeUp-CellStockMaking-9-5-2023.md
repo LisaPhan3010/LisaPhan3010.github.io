@@ -53,3 +53,10 @@ tags:
 - Mix well
 - Divide 1mL to each small tube
 - Put in freezer
+
+**Making Agar Gel - Recycle**
+- Put all used gells into a Erlenmeyer flask with stiring bar
+- Add 1X TAE 200 mL
+- Heat up using microwave 1 min
+- Stir while waiting for it to cool down 10 min
+- Add 6-7 gel stain, stir, pour into prepared tray with comb
