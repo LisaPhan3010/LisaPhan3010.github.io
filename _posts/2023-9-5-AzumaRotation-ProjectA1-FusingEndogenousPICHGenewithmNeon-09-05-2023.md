@@ -87,3 +87,25 @@ Opti-MEM (media without FBS)|-|183.02uL (total of 200uL)
 - 9-20-2023, change media and add selective antibitotic (1uL instead)
 
 - 9-22-2023, 1uL
+
+- 9-25-2023, 1uL
+
+- 9-27-2023, 1uL
+
+- 9-29-2023, 1uL
+
+- 10-2-2023, change media for 10cm dishes before picking in the fume hood with microscope at 4X (1 dish got contaminated and was dicarded)
+- Add 100 uL of Trypsin into each well of the 48-well plate
+- Use 20uL pipet to pick clones, carefully remove the edges (detach cells) then suck the whole clone into pipet and move to the 48-well plate, carefully label and use tape to mark wells/ track (pick isolated round clones first, then neighbor clones, do not mix clones, this is to ensure clone from 1 cell, take cells as much as possible, change tip for each clone)
+- After picking, add 1 uL of puromycin to 10cm dish and put in incubator
+- Add 500 uL of media (FBS+media) to each of the 48-well plate and suspend 20 times
+- Put into incubator
+
+- 10-3-2023, change media (500 uL each) for the 48-well plate
+- Prepare a tube of antibiotics and add to wells. Prepare 15mL= 15,000 uL in a tube (15,000 uL media)
++ Blasticidin (stock 10 mg/mL), needed 2 ug/uL. Thus, 1/5,000, 3uL
++ Neomycin G418 (stock 100 mg/mL), needed 100 ug/uL. Thus, 1/1,000, 15uL
++ Hygromycin (stock 100 mg/mL), needed 100 ug/uL. Thus, 1/1,000, 15uL
++ Puromycin (stock 10 mg/mL), needed 1 ug/uL. Thus, 1/10,000, 1.5uL
+
+- 10-5-2023, transfer 1/3 to 24-well plate, 2/3 to ependorf 1.5 mL tube
