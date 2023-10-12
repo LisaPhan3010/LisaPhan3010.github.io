@@ -81,7 +81,7 @@ tags:
 - Wash glasses with ethanol
 - Mount with DAPI and store in dark
 
-- Microscope work
+- Microscope work (MetaMorph, Acquire, 100X)
 + DAPI-blue
 + 568 CX-RED red
 + 488 FITC green
@@ -100,4 +100,42 @@ tags:
 - Each dish will have about 12.5% confluent from 100%
 - Tube and cap carefully
 - Total 5 stock tubes
+
+| Number of UFB in each Anaphase Cell |     |                                               |     |
+|-------------------------------------|-----|-----------------------------------------------|-----|
+| Replicate 1                         |     | Replicate 3 (2 is failed with anaphase cells) |     |
+| Control                             | 3KR | Control                                       | 3KR |
+| 2                                   | 2   | 4                                             | 1   |
+| 0                                   | 1   | 0                                             | 1   |
+| 0                                   | 0   | 0                                             | 1   |
+| 0                                   | 1   | 0                                             | 0   |
+| 0                                   | 2   | 0                                             | 0   |
+| 0                                   | 3   | 0                                             | 1   |
+| 2                                   | 0   | 4                                             | 5   |
+| 0                                   | 1   | 0                                             | 0   |
+| 0                                   | 0   | 0                                             | 0   |
+| 0                                   | 4   | 0                                             | 0   |
+| 0                                   | 3   | 0                                             | 0   |
+| 2                                   | 4   | 0                                             | 2   |
+| 0                                   | 2   | 1                                             | 3   |
+| 0                                   | 2   | 0                                             | 2   |
+| 0                                   | 0   | 0                                             | 0   |
+| 0                                   | 2   | 0                                             | 0   |
+| 4                                   | 2   | 0                                             | 0   |
+| 0                                   | 1   | 4                                             | 0   |
+| 0                                   | 0   | 1                                             | 2   |
+| 0                                   | 3   | 0                                             | 1   |
+| 0                                   | 4   | 0                                             | 2   |
+| 0                                   | 1   | 0                                             | 1   |
+| 3                                   | 2   | 0                                             | 0   |
+| 0                                   | 2   | 0                                             | 1   |
+| 1                                   | 0   | 0                                             | 0   |
+| 1                                   | 4   | 0                                             | 0   |
+| 0                                   | 0   | 0                                             | 1   |
+| 0                                   | 2   | 1                                             | 1   |
+| 0                                   | 1   | 0                                             | 0   |
+| 0                                   | 0   | 0                                             | 2   |
+|                                     |     |                                               | 0   |
+|                                     |     |                                               | 2   |
+|                                     |     |                                               | 1   |
 

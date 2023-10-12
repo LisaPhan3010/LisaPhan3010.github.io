@@ -109,6 +109,13 @@ Opti-MEM (media without FBS)|-|183.02uL (total of 200uL)
 + Puromycin (stock 10 mg/mL), needed 1 ug/uL. Thus, 1/10,000, 1.5uL
 
 - 10-5-2023, transfer 1/3 to 24-well plate, 2/3 to ependorf 1.5 mL tube
+- Add 200uL of trypsin to each of 48-well plate for 10 min
+- Add 500uL of media and resuspend
+- Then, transfer 2/3 (500uL) to 1.5mL tube and 1/3 (200uL) to 24-well plate
+- Add 1mL media to each of 24-well plate and add 500uL of media to each of 48-well plate
+- Spin 5000rpm in 5 min
+- Discard supernatant
+- Store at -20C for later extraction
 
 **Genomic DNA Extraction from Pellet of Cell**
 - Add proteinase K (10 uL per 1000 uL of lysis buffer) into lysis buffer, made (250uL x 22) + 100 = 5,600 uL (I messed up here with only 5.6uL of proteinase K)
@@ -125,3 +132,25 @@ Opti-MEM (media without FBS)|-|183.02uL (total of 200uL)
 - Centrifuge on table top centrifuge, take out the extra ethanool with pipette
 - Let it dry for 30 min
 - Add 200 uL of (RNase and EB buffer), incubate at 37C overnight
+
+**Genomic PCR**
+- Dilute primers 1:10
+- Prepare a tube of master mix:
++ Long Amp Tag MM: 10 uL
++ Reverse primer: 1uL
++ Forward primer: 1uL
++ H2O: 6uL each tube
+
+- Add 18 uL of master mix to each PCR tube for total 20uL with 2uL DNA template
+- Vortex and centrifuge
+- Place into PCR machine and choose the program
++ 94C for 1min
++ 94C 30s
++ 57C 1min
++ 65C 4min
++ Repeat the previous steps 30 cycles
++ 65C 75min
++ 4C
+
+**Run Gel**
+- Use all 20uL with 3uL of 6X dye

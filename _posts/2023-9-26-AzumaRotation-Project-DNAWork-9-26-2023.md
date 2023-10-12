@@ -84,6 +84,6 @@ Total volume|20 uL|20 uL
 - Check with same disgestion and running gel all 10 uL (2uLDNA, 0.2uL enzyme each, 1uL buffereach, total 10uL)
 - Results not too good
 
-- Prepare to redo whole experiment
+- Prepare to redo whole experiment: 1139, 1361, 1362
 - 10-10, preparing plasmids, stretching to AmpR plate
 - 10-11, making liquid culture
