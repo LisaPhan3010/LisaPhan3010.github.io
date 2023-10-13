@@ -152,5 +152,32 @@ Opti-MEM (media without FBS)|-|183.02uL (total of 200uL)
 + 65C 75min
 + 4C
 
-**Run Gel**
+**Run Gel 10-12-2023**
 - Use all 20uL with 3uL of 6X dye
+- Ladder N P 1 2 3 4 5 6 7; Ladder 8 9 10 11 12 13 14 15 16 17 18; Ladder 19 20 21 22
+- Check and take picture
+- Homozygous: 7, 9, 15, 17
+- Potential hymozygous: 2, 3
+- Split cells from 24-well plate
+- Change media for cells, Add 500uL of trypsin and wait for 10 min
+- Add 500uL media, resuspend and transfer:
++ 300uL for microscopy, into 6-well plate with coverslips (all), add 1mL media
++ 300uL for Western Blot into 1.5mL tube (all), spin 5000 rpm in 5 min, remove supernatant, add 100uL 1X SDS (from 3X SDS and BE), vortex 30 seconds and incubate 90C 10 min, repeat for 3 times, centrifuge 13000rpm in 5min, and store in -20C
++ The rest for maintain in 5 cm dish, (7, 9, 15, 17)
+- Add media to 24-well plate
+
+**Western Blot 10-13-2023**
+- Vortex 30s and heat 10 min, 3 times
+- Centrifuge 13000 rpm in 5min
+- Use 8-16% gel, remove bag and tape, put in holder with words facing to myself, close
+- Add 1X SDS PAGE running gel in the front, and 50% in the back
+- Close box, run at 25A for about 90min (until it reaches the bottom, where I took the tape out)
+- 1X SDS can be made from 10X SDS and MiniDrop Water
+- Marker (19uL 1X SDS and 1uL PageRuler Plus Prestained Protein ladder), negative control, positive control, 2, 3, 7, 9, 15, 17, marker, Bunu's samples, marker, blank (20uL 1X SDS)
+- 20uL for each sample
+
+- Soak membrane in methanol on a rocker for 2-3 min
+- Prepare a box of 1X transfer buffer, soak 2 blot papers, gel, and membrane (cut 1 blot paper for smaller)
+- Put into transfer box by order paper, membrane, gel, paper; make sure no bubbles, transfer proteins at current limit 48 and run for about 2 hours
+- Soak membrane in 1x TBS for about 1 min on rocker
+- Pour out TBS and add ceasin blocking solution and soak for 30 min on rocker
